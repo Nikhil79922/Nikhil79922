@@ -39,7 +39,7 @@
   <img src="./banner/dev.gif" width="600" height="400"/>
 </div>
 <div align="left">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
+  <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="600" height="400"/>
 </div>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikhil79922&theme=react-dark)
