@@ -36,7 +36,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil79922&" alt="nikhil79922" /></p>
 
 
-<div align="left">
+<div align="center">
   <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="600" height="400"/>
 </div>
 
