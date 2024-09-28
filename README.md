@@ -29,6 +29,10 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
+<p align="left">
+ <img width="880" src="./banner/github-snake.svg" alt="snake"/>
+</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhil79922&show_icons=true&locale=en&layout=compact" alt="nikhil79922" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhil79922&show_icons=true&locale=en" alt="nikhil79922" /></p>
