@@ -1,4 +1,4 @@
-<img src="./banner/Poster" alt="Full Stack Developer Poster - Nikhil Singh" />
+<img src="./banner/Poster.png" alt="Full Stack Developer Poster - Nikhil Singh" />
 
 
 ## Resume
