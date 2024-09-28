@@ -37,9 +37,9 @@
 
 
 <div align="center" gap="20">
- <span> <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="500" height="350"/>  </span>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   <span>  <img src="/banner/dev.gif" width="450" height="350"/>  </span>
+ <span> <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="200" height="200"/>  </span>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   <span>  <img src="/banner/dev.gif" width="250" height="200"/>  </span>
 </div>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikhil79922&theme=react-dark)
