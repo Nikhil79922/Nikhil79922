@@ -37,7 +37,7 @@
 
 
 <div align="center" gap="20">
- <span> <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="300" height="300"/>  </span>
+ <span> <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="400" height="300"/>  </span>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    <span>  <img src="/banner/dev.gif" width="350" height="300"/>  </span>
 </div>
