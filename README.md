@@ -113,7 +113,7 @@ Sandip University, Nashik
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhil79922&show_icons=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=nikhil79922&show_icons=true" />
 </p>
 
 <p>
@@ -126,55 +126,3 @@ Sandip University, Nashik
 </div>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikhil79922&theme=react-dark)
-
----
-
-## 🚀 Professional Enhancements (Sleek & Impressive Edition)
-
-To elevate your profile as a serious, skilled developer, we've added subtle, professional effects that emphasize expertise and modernity. These are clean, community-respected, and avoid anything gimmicky—focusing on readability, impact, and a "stud-like" (cool, competent) presence.
-
-### 🔥 Subtle Title Emphasis
-**⚡ Nikhil Kumar Singh ⚡**  
-*(Bold, centered for authority—simple yet striking.)*
-
-### 💼 Enhanced Badges (Clean & Hover-Friendly)
-Badges are now grouped with consistent styling for a professional look. Hover effects (in browsers) add a subtle glow without distraction.
-
-- **Programming Languages:**  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-  ![Java](https://img.shields.io/badge/Java-DC382D?style=for-the-badge&logo=java&logoColor=white)  
-  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
-*(All sections follow this clean format for uniformity.)*
-
-### 📊 Interactive Stats Section
-Stats are presented with a dark theme for a modern, tech-pro feel. The activity graph uses `react-dark` for sleekness.
-
-- **Top Languages:** Compact layout for quick overview.
-- **GitHub Stats:** Icons enabled for visual appeal.
-- **Streak Stats:** Highlights consistency.
-- **Activity Graph:** Dark theme for a professional edge.
-
-### 🔍 Expandable Projects (Depth Without Clutter)
-<details>
-<summary>🧠 Projects (Click to Expand for Details)</summary>
-
-- **E-Commerce Web App** — MERN stack with Redux for state management, integrated payments, and automated email workflows.  
-- **Spotify / Netflix / Amazon / X.com Clones** — Fully responsive UI replicas built with modern frameworks.  
-- **Dictionary & To-Do Apps** — React-based with persistent storage for reliability.  
-- **3D Animated Website** — Leveraging GSAP and Locomotive for advanced animations.  
-
-*(Collapsible for clean layout—reveals depth on demand, showing expertise without overwhelming.)*
-</details>
-
-### 🌟 Minimalist Visuals
-- Retained the snake and dev GIFs for personality, but kept them balanced.
-- Activity graph in dark mode for a polished, professional appearance.
-
-### 🛠️ Why This is "Stud-Like"
-- **Professional Tone:** No jokes, emojis overload, or flashy animations—pure focus on skills and achievements.
-- **Community Respect:** Looks like a seasoned dev's profile—impressive, not showy.
-- **Scalability:** Easy to maintain and update; stands out in a sea of basic READMEs.
-- **Customization Tips:** Swap themes (e.g., `merko` for activity graph) or add custom badges via shields.io for subtle personalization.
-
-This README positions you as a competent, impressive developer—cool and capable. If you need further refinements, like adding certifications or adjusting themes, let me know! 🚀
