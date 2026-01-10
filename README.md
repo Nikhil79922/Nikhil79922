@@ -87,19 +87,6 @@ Strong backend foundation with production experience in **auth, payments, RBAC, 
 
 ---
 
-## 🧪 Internships
-
-**Full Stack Developer Intern — Prodigy InfoTech (Remote)**  
-*Jul 2024 – Aug 2024*  
-- Built Stopwatch, Password Generator, Weather App & Alarm Clock
-
-**Full Stack Developer Intern — CODSOFT (Remote)**  
-*Jul 2023 – Aug 2023*  
-- Built JS apps & games
-- Designed React To-Do App with optimized workflows
-
----
-
 ## 🧠 Projects
 
 - **E-Commerce Web App** — MERN, Redux cart, payments, email automation  
