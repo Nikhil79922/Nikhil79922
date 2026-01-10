@@ -122,7 +122,7 @@ Sandip University, Nashik
 
 <div align="center">
   <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="500"/>
-    <img src="/banner/dev.gif" width="600"/>
+    <img src="/banner/dev.gif" width="500"/>
 </div>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikhil79922&theme=react-dark)
