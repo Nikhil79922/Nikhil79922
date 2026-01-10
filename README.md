@@ -120,9 +120,9 @@ Sandip University, Nashik
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil79922" />
 </p>
 
-<div align="left">
+<div align="center">
   <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="380"/>
-  <img src="/banner/dev.gif" width="340"/>
+  <img src="/banner/dev.gif" width="380"/>
 </div>
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikhil79922&theme=react-dark)
