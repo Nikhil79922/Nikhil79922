@@ -113,14 +113,14 @@ Sandip University, Nashik
 </p>
 
 <p>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=nikhil79922&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhil79922&show_icons=true" />
 </p>
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhil79922" />
 </p>
 
-<div align="center">
+<div align="left">
   <img src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif" width="380"/>
   <img src="/banner/dev.gif" width="340"/>
 </div>
