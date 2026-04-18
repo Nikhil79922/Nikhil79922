@@ -19,7 +19,7 @@ Full-Stack Developer with **1+ year of professional & internship experience** bu
 
 - Delivered **4+ live production projects** across web and systems domains
 - Designed **microservices** using Node.js, Express, and KrakenD API Gateway
-- Implemented **RBAC authentication**, secure hashing, and payment flows
+- Implemented **RBAC authentication**, secure hashing, and multi-gateway payment flows
 - Built **real-time data pipelines** using gRPC and MQTT protocols
 - Automated data collection workflows with **Puppeteer-based scrapers**
 - Deployed **Dockerized applications** on AWS and Vercel
@@ -36,6 +36,23 @@ Full-Stack Developer with **1+ year of professional & internship experience** bu
 | **3D Animated Website** | GSAP, Locomotive Scroll | Scroll-triggered animations with parallax and smooth transitions |
 | **Platform Clones** | React, CSS | Pixel-accurate responsive clones of Spotify, Netflix, Amazon, X.com |
 | **Dictionary & To-Do Apps** | React | API-integrated apps with persistent local storage and optimized re-renders |
+
+---
+
+## Payment Gateway Integrations
+
+| Gateway | Region | Sandbox | Key Implementation Details |
+|---|---|---|---|
+| **Square** | US / Global | ✅ | Payments API, Orders API, OAuth 2.0 merchant auth, webhook event handling |
+| **Place to Pay** | Latin America | ✅ | REST session-based checkout, payment status polling, HMAC signature validation |
+| **ATH Móvil** | Puerto Rico | ⚠️ No sandbox | Production-only integration; implemented live payment request flow and callback handling |
+| **Razorpay** | India | ✅ | Orders API, payment capture, refunds, webhook signature verification, UPI & card support |
+
+- Handled **end-to-end payment flows** — session creation, redirect, confirmation, and cancellation across all four gateways
+- Implemented **webhook listeners** for async payment status updates and order reconciliation
+- Integrated **ATH Móvil** without a testing sandbox — built against production API with defensive error handling and thorough logging
+- Ensured **PCI-compliant** data handling — no raw card data stored server-side
+- Abstracted gateway logic behind a **unified payment service** within a microservices architecture, routed through KrakenD API Gateway
 
 ---
 
@@ -60,6 +77,10 @@ Full-Stack Developer with **1+ year of professional & internship experience** bu
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white)
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=eclipse-mosquitto&logoColor=white)
 ![KrakenD](https://img.shields.io/badge/KrakenD-API_Gateway-blue?style=flat-square)
+![Square](https://img.shields.io/badge/Square-3E4348?style=flat-square&logo=square&logoColor=white)
+![Place to Pay](https://img.shields.io/badge/Place_to_Pay-00AEEF?style=flat-square&logoColor=white)
+![ATH Móvil](https://img.shields.io/badge/ATH_Móvil-E01A22?style=flat-square&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
 
 ### Databases & ORM
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
