@@ -117,5 +117,5 @@ Sandip University, Nashik &nbsp;·&nbsp; CGPA: **9.11** &nbsp;·&nbsp; Graduated
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil79922&theme=minimal&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil79922&theme=github-dark&hide_border=true" />
 </p>
