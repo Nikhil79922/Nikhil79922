@@ -2,7 +2,7 @@
 
 ### Full Stack Developer — MERN · Microservices · System Design · DevOps-aware
 
-📧 [ns94301918@gmail.com](mailto:ns94301918@gmail.com) &nbsp;·&nbsp; 📞 +91-7992238245 &nbsp;·&nbsp; [GitHub](https://github.com/Nikhil79922) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/) &nbsp;·&nbsp; [![Resume](https://img.shields.io/badge/Résumé-View-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1aq62bTeqepsbRCVzWtoTbgMWWaeQGT-D/view)
+📧 [ns94301918@gmail.com](mailto:ns94301918@gmail.com) &nbsp;·&nbsp; 📞 +91-7992238245 &nbsp;·&nbsp; [GitHub](https://github.com/Nikhil79922) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/) &nbsp;·&nbsp; [![Resume](https://img.shields.io/badge/Résumé-View-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://drive.google.com/file/d/1bm8whV2pOMs44I5w2UVcwXDwyb3iwwo2/view?usp=drive_link)
 
 ---
 
