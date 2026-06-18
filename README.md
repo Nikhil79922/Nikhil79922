@@ -8,7 +8,7 @@
 
 ## About
 
-Full-Stack Developer with **1+ year of professional & internship experience** building scalable MERN applications, microservices architectures, and real-time systems. Strong backend foundation with production exposure to **auth, payments, RBAC, messaging, and cloud deployments** — paired with clean, high-performance React UIs.
+Full-Stack Developer with **2+ year of professional & internship experience** building scalable MERN applications, microservices architectures, and real-time systems. Strong backend foundation with production exposure to **auth, payments, RBAC, messaging, and cloud deployments** — paired with clean, high-performance React UIs.
 
 ---
 
