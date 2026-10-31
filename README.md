@@ -3,12 +3,14 @@
 <img src="assets/hero.svg" alt="Nikhil Kumar Singh, Java Backend Engineer" width="100%"/>
 
 <br/>
+<br/>
 
 <a href="mailto:ns94301918@gmail.com"><img src="assets/btn-email.svg" alt="Email" width="126" /></a>
 <a href="https://www.linkedin.com/in/nikhil-kumar-singh-a167b2279/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" width="126" /></a>
 <a href="https://github.com/Nikhil79922"><img src="assets/btn-github.svg" alt="GitHub" width="126" /></a>
 <a href="https://leetcode.com/u/Gasmonkey/"><img src="assets/btn-leetcode.svg" alt="LeetCode" width="126" /></a>
 <a href="https://drive.google.com/file/d/1bm8whV2pOMs44I5w2UVcwXDwyb3iwwo2/view?usp=drive_link"><img src="assets/btn-resume.svg" alt="Résumé" width="126" /></a>
+
 
 **Nikhil Kumar Singh** · Java Backend Engineer · Spring Boot · Microservices · Kafka · AWS
 
