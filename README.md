@@ -4,11 +4,11 @@
 
 <br/>
 
-<a href="mailto:ns94301918@gmail.com"><img src="assets/btn-email.svg" alt="Email" width="176" /></a>
-<a href="https://www.linkedin.com/in/nikhil-kumar-singh-a167b2279/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" width="176" /></a>
-<a href="https://github.com/Nikhil79922"><img src="assets/btn-github.svg" alt="GitHub" width="176" /></a>
-<a href="https://leetcode.com/u/Gasmonkey/"><img src="assets/btn-leetcode.svg" alt="LeetCode" width="176" /></a>
-<a href="https://drive.google.com/file/d/1bm8whV2pOMs44I5w2UVcwXDwyb3iwwo2/view?usp=drive_link"><img src="assets/btn-resume.svg" alt="Résumé" width="176" /></a>
+<a href="mailto:ns94301918@gmail.com"><img src="assets/btn-email.svg" alt="Email" width="106" /></a>
+<a href="https://www.linkedin.com/in/nikhil-kumar-singh-a167b2279/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" width="106" /></a>
+<a href="https://github.com/Nikhil79922"><img src="assets/btn-github.svg" alt="GitHub" width="106" /></a>
+<a href="https://leetcode.com/u/Gasmonkey/"><img src="assets/btn-leetcode.svg" alt="LeetCode" width="106" /></a>
+<a href="https://drive.google.com/file/d/1bm8whV2pOMs44I5w2UVcwXDwyb3iwwo2/view?usp=drive_link"><img src="assets/btn-resume.svg" alt="Résumé" width="106" /></a>
 
 <br/><br/>
 
@@ -112,9 +112,9 @@ Across all gateways: full payment lifecycle handling, webhook-driven order recon
 
 <div align="center">
 
-<a href="mailto:ns94301918@gmail.com"><img src="assets/btn-email.svg" alt="Email" width="176" /></a>
-<a href="https://www.linkedin.com/in/nikhil-kumar-singh-a167b2279/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" width="176" /></a>
-<a href="https://github.com/Nikhil79922"><img src="assets/btn-github.svg" alt="GitHub" width="176" /></a>
+<a href="mailto:ns94301918@gmail.com"><img src="assets/btn-email.svg" alt="Email" width="106" /></a>
+<a href="https://www.linkedin.com/in/nikhil-kumar-singh-a167b2279/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" width="106" /></a>
+<a href="https://github.com/Nikhil79922"><img src="assets/btn-github.svg" alt="GitHub" width="106" /></a>
 
 <br/><br/>
 
