@@ -2,65 +2,71 @@
 
 <img src="assets/hero.svg" alt="Nikhil Kumar Singh, Java Backend Engineer" width="100%" />
 
-<br/>
+**Java Backend Engineer · Spring Boot · Microservices · Kafka · Payment Systems**
 
 <a href="mailto:ns94301918@gmail.com"><img src="https://img.shields.io/badge/EMAIL-040815?style=for-the-badge&logo=gmail&logoColor=5b9dff&labelColor=040815&color=0b1a3d" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/nikhil-kumar-singh-a167b2279/"><img src="https://img.shields.io/badge/LINKEDIN-040815?style=for-the-badge&logo=linkedin&logoColor=5b9dff&labelColor=040815&color=0b1a3d" alt="LinkedIn" /></a>
 <a href="https://leetcode.com/u/Gasmonkey/"><img src="https://img.shields.io/badge/LEETCODE-040815?style=for-the-badge&logo=leetcode&logoColor=ffa726&labelColor=040815&color=0b1a3d" alt="LeetCode" /></a>
 <a href="https://drive.google.com/file/d/1bm8whV2pOMs44I5w2UVcwXDwyb3iwwo2/view?usp=drive_link"><img src="https://img.shields.io/badge/R%C3%89SUM%C3%89-040815?style=for-the-badge&logo=googledrive&logoColor=ffa726&labelColor=040815&color=0b1a3d" alt="Résumé" /></a>
 
+[About](#about) · [Skills](#technical-skills) · [Experience](#experience) · [Projects](#projects) · [Payments](#payment-systems) · [Recognition](#recognition) · [Education](#education) · [Contact](#contact)
+
 </div>
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-<img src="assets/h-about.svg" alt="About" width="100%" />
+## About
 
 Java backend engineer with **2+ years** of professional and internship experience building scalable REST APIs, microservices, and full-stack applications. My work centers on event-driven systems, distributed transactions, secure authentication, and production payment flows, deployed on AWS with Docker and automated CI/CD.
 
 Comfortable across the stack with React, Next.js, and Node.js, but strongest where correctness, reliability, and data consistency matter.
 
+| At a glance | |
+|---|---|
+| **Role** | Java Backend Engineer (Software Developer) · Narola Infotech |
+| **Experience** | 2+ years, professional and internship |
+| **Core stack** | Java, Spring Boot, Spring Security, Hibernate/JPA, Kafka, RabbitMQ, Redis, PostgreSQL, Docker, AWS |
+| **Domains** | Payment systems, event-driven microservices, distributed transactions, secure authentication |
+| **Impact** | 5 production applications · 50,000+ users · 99.9% uptime · ~40% faster deployments · 4 payment gateways |
+| **Education** | B.Tech, Computer Science and Engineering · Sandip University · CGPA 9.11 |
+| **Open to** | Java Backend, Spring Boot, and Microservices Engineer roles |
+
 <img src="assets/metrics.svg" alt="Key metrics: 5 production applications, 50,000+ users, 99.9% uptime, ~40% deployment efficiency gain, 4 payment gateways" width="100%" />
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-<img src="assets/h-stack.svg" alt="Tech Stack" width="100%" />
+## Technical Skills
 
 <img src="assets/stack.svg" alt="Technology stack drawn as constellations: languages, frameworks, messaging and data, delivery" width="100%" />
 
-<details>
-<summary><b>Detailed skill matrix</b></summary>
-<br/>
-
 | Area | Details |
 |---|---|
+| **Languages** | Java, JavaScript |
 | **Java Platform** | OOP, Collections, Multithreading, Executor Framework, CompletableFuture, Streams, Lambdas, JDBC, Exception Handling, Virtual Threads |
 | **Spring** | Spring Boot, Spring MVC, Spring Security, Spring Cloud Gateway, Hibernate / JPA |
 | **Architecture** | REST API Design, Microservices, Event-Driven Architecture, Saga Pattern, Distributed Transactions, API Gateway (Spring Cloud Gateway, KrakenD), Service Discovery (Eureka), Design Patterns, System Design |
-| **Data** | PostgreSQL, MySQL, MongoDB, MSSQL, Redis, Prisma, Mongoose |
+| **Databases and Search** | PostgreSQL, MySQL, MongoDB, MSSQL, Cassandra, Redis, Elasticsearch, Prisma, Mongoose |
 | **Messaging** | Apache Kafka, RabbitMQ, gRPC |
 | **Security** | JWT, RBAC, OAuth 2.0, Refresh Token Rotation, Rate Limiting, Webhook Signature Verification, Idempotency |
-| **DevOps** | Docker, Docker Compose, AWS (EC2, S3), GitHub Actions CI/CD, Nginx, Linux |
-| **Frontend** | React, Next.js, Redux Toolkit, Tailwind CSS, GSAP |
+| **Integrations** | Razorpay, Square, Place to Pay, ATH Móvil, Stripe, Twilio, SendGrid |
+| **DevOps and Cloud** | Docker, Docker Compose, AWS (EC2, S3), GitHub Actions CI/CD, Nginx, Linux |
+| **Frontend and Node** | React, Next.js, Redux Toolkit, Tailwind CSS, GSAP, Node.js, Hapi.js |
 | **Tooling** | Git, GitHub, IntelliJ IDEA, Maven, Jira, Confluence |
-
-</details>
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-<img src="assets/h-experience.svg" alt="Experience" width="100%" />
+## Experience
 
 ### Software Developer · Narola Infotech
 `JANUARY 2025 – PRESENT`
 
-| Area | Contribution |
-|---|---|
-| **Engineering** | Designed and built REST APIs and microservices with Java, Spring Boot, and Hibernate/JPA |
-| **Messaging** | Implemented asynchronous service communication using Apache Kafka and RabbitMQ |
-| **Consistency** | Built distributed transaction workflows with the Saga Pattern and compensating transactions |
-| **Security** | Implemented JWT authentication, RBAC, and refresh-token rotation |
-| **Payments** | Integrated Razorpay with webhook verification and idempotency to prevent duplicate processing |
-| **Performance** | Added Redis caching to reduce API latency and database load |
-| **Delivery** | Containerized services with Docker, automated CI/CD with GitHub Actions (~40% faster deployments), and deployed on AWS |
+- **Backend engineering:** Designed and built REST APIs and microservices with Java, Spring Boot, and Hibernate/JPA.
+- **Event-driven messaging:** Implemented asynchronous service communication using Apache Kafka and RabbitMQ.
+- **Data consistency:** Built distributed transaction workflows with the Saga Pattern and compensating transactions.
+- **Security:** Implemented JWT authentication, RBAC, and refresh-token rotation.
+- **Payments:** Integrated Razorpay with webhook verification and idempotency to prevent duplicate processing.
+- **Performance:** Added Redis caching to reduce API latency and database load.
+- **Delivery:** Containerized services with Docker, automated CI/CD with GitHub Actions (~40% faster deployments), and deployed on AWS.
 
 **Outcome:** 5 production applications · 50,000+ users · 99.9% uptime
 **Systems delivered:** `DONRIFA` `ENIRA` `ALICE` `HIVEONE` `ERP Automation` `OCR System`
@@ -70,7 +76,7 @@ Comfortable across the stack with React, Next.js, and Node.js, but strongest whe
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-<img src="assets/h-projects.svg" alt="Projects" width="100%" />
+## Projects
 
 ### Java Backend and Microservices
 
@@ -94,7 +100,7 @@ Comfortable across the stack with React, Next.js, and Node.js, but strongest whe
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-<img src="assets/h-payments.svg" alt="Payment Systems" width="100%" />
+## Payment Systems
 
 | Gateway | Region | Implementation |
 |---|---|---|
@@ -103,9 +109,7 @@ Comfortable across the stack with React, Next.js, and Node.js, but strongest whe
 | **ATH Móvil** | Puerto Rico | Production payment request flow and callback handling |
 | **Razorpay** | India | Orders API, capture, refunds, UPI, cards, webhook verification |
 
-<details>
-<summary><b>Implementation practices</b></summary>
-<br/>
+**Implementation practices**
 
 - Full lifecycle handling: session creation, checkout, confirmation, cancellation.
 - Webhook listeners for asynchronous status updates and order reconciliation.
@@ -114,11 +118,9 @@ Comfortable across the stack with React, Next.js, and Node.js, but strongest whe
 - Unified payment service abstraction inside a microservices architecture.
 - PCI-oriented design: raw card data is never stored.
 
-</details>
-
 <img src="assets/divider.svg" alt="" width="100%" />
 
-<img src="assets/h-analytics.svg" alt="Analytics" width="100%" />
+## Coding Activity
 
 <div align="center">
 
@@ -142,7 +144,7 @@ Comfortable across the stack with React, Next.js, and Node.js, but strongest whe
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-<img src="assets/h-recognition.svg" alt="Recognition" width="100%" />
+## Recognition
 
 | Recognition | Details |
 |---|---|
@@ -153,14 +155,14 @@ Comfortable across the stack with React, Next.js, and Node.js, but strongest whe
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-<img src="assets/h-education.svg" alt="Education" width="100%" />
+## Education
 
 **B.Tech, Computer Science and Engineering** · Sandip University, Nashik
 Graduated 2025 · CGPA **9.11**
 
 <img src="assets/divider.svg" alt="" width="100%" />
 
-<img src="assets/h-contact.svg" alt="Contact" width="100%" />
+## Contact
 
 <div align="center">
 
