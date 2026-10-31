@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Nikhil Kumar Singh, Java Backend Engineer" width="100%" margin-bottom="10%"/>
+<img src="assets/hero.svg" alt="Nikhil Kumar Singh, Java Backend Engineer" width="100%"/>
 
 <br/>
 
@@ -9,8 +9,6 @@
 <a href="https://github.com/Nikhil79922"><img src="assets/btn-github.svg" alt="GitHub" width="126" /></a>
 <a href="https://leetcode.com/u/Gasmonkey/"><img src="assets/btn-leetcode.svg" alt="LeetCode" width="126" /></a>
 <a href="https://drive.google.com/file/d/1bm8whV2pOMs44I5w2UVcwXDwyb3iwwo2/view?usp=drive_link"><img src="assets/btn-resume.svg" alt="Résumé" width="126" /></a>
-
-<br/><br/>
 
 **Nikhil Kumar Singh** · Java Backend Engineer · Spring Boot · Microservices · Kafka · AWS
 
