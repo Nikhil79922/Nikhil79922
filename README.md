@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Nikhil Kumar Singh, Java Backend Engineer" width="100%" />
+<img src="assets/hero.svg" alt="Nikhil Kumar Singh, Java Backend Engineer" width="100%" margin-bottom="10%"/>
 
 <br/>
 
