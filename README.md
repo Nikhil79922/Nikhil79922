@@ -1,243 +1,230 @@
-import pypandoc
+<!-- ═══════════════════════ BANNER ═══════════════════════ -->
+<div align="center">
 
-markdown = r"""# Nikhil Kumar Singh
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Nikhil%20Kumar%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer&descSize=20&descAlignY=58&animation=fadeIn" alt="Nikhil Kumar Singh banner" width="100%" />
 
-### Java Backend Developer | Spring Boot | Microservices | System Design | MERN
+<a href="https://github.com/Nikhil79922">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=4FC3F7&center=true&vCenter=true&width=700&lines=Java+%C2%B7+Spring+Boot+%C2%B7+Microservices;Kafka+%C2%B7+RabbitMQ+%C2%B7+Redis+%C2%B7+PostgreSQL;Distributed+Systems+%26+Payment+Integrations;5+production+apps+%C2%B7+50%2C000%2B+users+%C2%B7+99.9%25+uptime" alt="Typing animation" />
+</a>
 
-📧 [ns94301918@gmail.com](mailto:ns94301918@gmail.com) · 📞 +91-7992238245 · [GitHub](https://github.com/Nikhil79922) · [LinkedIn](https://www.linkedin.com/in/nikhil-kumar-singh-a167b2279/) · [Résumé](https://drive.google.com/file/d/1bm8whV2pOMs44I5w2UVcwXDwyb3iwwo2/view?usp=drive_link)
+<br/>
 
----
+<img src="https://komarev.com/ghpvc/?username=Nikhil79922&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile views" />
+<img src="https://img.shields.io/badge/Experience-2%2B_Years-2ea44f?style=flat-square" alt="Experience" />
+<img src="https://img.shields.io/badge/Open_to-Work-brightgreen?style=flat-square" alt="Open to work" />
 
-## About
+<br/><br/>
 
-Java Backend Developer with **2+ years of professional and internship experience** building scalable REST APIs, distributed microservices, and full-stack applications.
+<a href="mailto:ns94301918@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/nikhil-kumar-singh-a167b2279/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/Gasmonkey/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://drive.google.com/file/d/1bm8whV2pOMs44I5w2UVcwXDwyb3iwwo2/view?usp=drive_link"><img src="https://img.shields.io/badge/Résumé-2ea44f?style=for-the-badge&logo=googledrive&logoColor=white" alt="Résumé" /></a>
 
-Experienced in **Java, Spring Boot, Hibernate/JPA, Apache Kafka, RabbitMQ, Redis, PostgreSQL, and Docker**, with hands-on production exposure to authentication, payment integrations, event-driven architectures, distributed transactions, and cloud deployments.
+<br/>
 
-Strong understanding of backend engineering, system design, API development, security, and database optimization, complemented by frontend experience with React, Next.js, and the MERN stack.
+📞 +91-7992238245
 
----
+</div>
 
-## Work Experience
+<br/>
 
-### Software Developer — Narola Infotech
-`January 2025 – Present`
+## 👨‍💻 About Me
 
-- Delivered **5 production applications** serving 50,000+ users with 99.9% uptime.
-- Designed and developed scalable REST APIs using Java, Spring Boot, and microservices architecture.
-- Implemented distributed communication using Apache Kafka and RabbitMQ.
-- Built authentication and authorization systems using JWT, RBAC, and refresh-token rotation.
-- Built distributed transaction workflows using the Saga Pattern and compensating transactions.
-- Integrated Razorpay payment processing with webhook verification and idempotency.
-- Implemented Redis caching to improve API performance and reduce database load.
-- Containerized applications using Docker and automated CI/CD pipelines with GitHub Actions.
-- Deployed and maintained cloud-based applications on AWS.
-- Improved deployment efficiency by approximately 40% through CI/CD automation.
+Java backend developer with **2+ years** of professional and internship experience building scalable REST APIs, microservices, and full-stack applications. I focus on event-driven systems, distributed transactions, secure authentication, and production payment flows.
 
-**Key Projects:** `DONRIFA` · `ENIRA` · `ALICE` · `HIVEONE` · `ERP Automation` · `OCR System`
+```java
+public class NikhilKumarSingh {
+    String role       = "Java Backend Developer";
+    String company    = "Narola Infotech";
+    String[] core     = {"Java", "Spring Boot", "Microservices", "Kafka", "Redis", "PostgreSQL"};
+    String[] infra    = {"Docker", "AWS", "GitHub Actions", "Nginx"};
+    String education  = "B.Tech CSE, Sandip University (CGPA 9.11)";
+    boolean openToWork = true;
+}
+```
 
-### Previous Internships
+| 🚀 | 📈 | 🔐 | 💳 |
+|:---:|:---:|:---:|:---:|
+| **5** production apps delivered | **50,000+** users served | **99.9%** uptime | **4** payment gateways integrated |
 
-**TechnoHacks EduTech** — Web Development Intern  
-`July 2023 – September 2023`
+<br/>
 
-**CodSoft** — Web Development Intern  
-`July 2023 – September 2023`
+## 🛠 Tech Stack
 
-**Bharat Intern** — Web Development Intern  
-`July 2023 – September 2023`
+<div align="center">
 
----
+**Languages**<br/>
+<img src="https://skillicons.dev/icons?i=java,js,ts,html,css&perline=10" alt="Languages" />
 
-## Featured Projects
+**Backend & Architecture**<br/>
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven,nodejs,express,graphql&perline=10" alt="Backend" />
 
-### Java Backend & Microservices
+**Databases & Messaging**<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,rabbitmq,prisma&perline=10" alt="Databases" />
 
-| Project | Technology | Description |
+**DevOps & Cloud**<br/>
+<img src="https://skillicons.dev/icons?i=docker,aws,githubactions,nginx,linux,git&perline=10" alt="DevOps" />
+
+**Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind&perline=10" alt="Frontend" />
+
+**Tools**<br/>
+<img src="https://skillicons.dev/icons?i=idea,jira,confluence,github&perline=10" alt="Tools" />
+
+</div>
+
+<details>
+<summary><b>📚 Detailed skills</b></summary>
+<br/>
+
+| Area | Details |
+|---|---|
+| **Core Java** | OOP, Collections, Multithreading, Executor Framework, CompletableFuture, Streams, Lambdas, JDBC, Exception Handling, Virtual Threads |
+| **Spring** | Spring Boot, Spring MVC, Spring Security, Spring Cloud Gateway, Hibernate / JPA |
+| **Architecture** | REST API Design, Microservices, Event-Driven Architecture, Saga Pattern, Distributed Transactions, API Gateway (Spring Cloud Gateway, KrakenD), Service Discovery (Eureka), Design Patterns, System Design |
+| **Data** | PostgreSQL, MySQL, MongoDB, MSSQL, Redis, Prisma, Mongoose |
+| **Messaging** | Apache Kafka, RabbitMQ, gRPC |
+| **Security** | JWT, RBAC, OAuth 2.0, Refresh Token Rotation, Rate Limiting, Webhook Signature Verification, Idempotency |
+| **DevOps** | Docker, Docker Compose, AWS EC2 & S3, GitHub Actions CI/CD, Nginx, Linux |
+| **Frontend** | React, Next.js, Redux Toolkit, Tailwind CSS, GSAP, HTML, CSS |
+
+</details>
+
+<br/>
+
+## 💼 Experience
+
+### Software Developer · Narola Infotech
+<sub>**Jan 2025 – Present**</sub>
+
+- Delivered **5 production applications** serving 50,000+ users at 99.9% uptime.
+- Built REST APIs and microservices with Java and Spring Boot.
+- Implemented service-to-service messaging with Apache Kafka and RabbitMQ.
+- Built authentication systems with JWT, RBAC, and refresh-token rotation.
+- Built Saga-based distributed transaction workflows with compensating transactions.
+- Integrated Razorpay with webhook verification and idempotency.
+- Added Redis caching to reduce API latency and database load.
+- Containerized apps with Docker and automated CI/CD with GitHub Actions, **improving deployment efficiency by ~40%**.
+- Deployed and maintained applications on AWS.
+
+**Projects shipped:** `DONRIFA` · `ENIRA` · `ALICE` · `HIVEONE` · `ERP Automation` · `OCR System`
+
+### Web Development Intern · TechnoHacks EduTech · CodSoft · Bharat Intern
+<sub>**Jul 2023 – Sep 2023**</sub>
+
+<br/>
+
+## 🚀 Featured Projects
+
+### ☕ Java Backend & Microservices
+
+| Project | Stack | Highlights |
 |---|---|---|
-| Banking Microservices | Java, Spring Boot, Kafka, PostgreSQL | Distributed banking system implementing Saga Pattern, compensating transactions, event-driven communication, and idempotent consumers. |
-| Salon Booking Platform | Spring Boot, Spring Cloud Gateway, Eureka, PostgreSQL, Docker | Six microservices covering users, salons, categories, services, bookings, and payments with service discovery and API gateway routing. |
-| Job Application Portal | Spring Boot, Kafka, Redis, JWT | Microservices-based application with API Gateway, refresh-token rotation, caching, event messaging, and Razorpay integration. |
-| Real-Time Chat Application | Java, RabbitMQ, Redis | Concurrent real-time messaging system using asynchronous message queuing and caching. |
-| Redis Caching | Java, Redis | Caching implementation to reduce API response times and improve application performance. |
+| **🏦 Banking Microservices** | `Java` `Spring Boot` `Kafka` `PostgreSQL` | Saga Pattern, compensating transactions, event-driven communication, idempotent consumers |
+| **💇 Salon Booking Platform** | `Spring Boot` `Cloud Gateway` `Eureka` `PostgreSQL` `Docker` | Six microservices: users, salons, categories, services, bookings, payments. Service discovery and gateway routing |
+| **💼 Job Application Portal** | `Spring Boot` `Kafka` `Redis` `JWT` | API Gateway, refresh-token rotation, caching, event messaging, Razorpay integration |
+| **💬 Real-Time Chat App** | `Java` `RabbitMQ` `Redis` | Concurrent messaging with async queues and caching |
+| **⚡ Redis Caching** | `Java` `Redis` | Caching layer that cuts API response times |
 
-### Full-Stack & Other Projects
+### 🌐 Full-Stack & Other
 
-| Project | Technology | Description |
+| Project | Stack | Highlights |
 |---|---|---|
-| E-Commerce Web Application | MERN, Redux, Stripe | Full-stack shopping platform with cart management, payments, and automated email workflows. |
-| AgroNet | MERN Stack | Platform connecting farmers directly with buyers through product listings, order management, and authentication. |
-| GenAI Applications | Node.js, AI APIs | AI-powered text, image, and audio generation using asynchronous processing pipelines. |
-| 3D Animated Website | GSAP, Locomotive Scroll | Interactive website featuring scroll-triggered animations, parallax effects, and smooth transitions. |
-| Platform Clones | React, CSS | Responsive UI implementations inspired by Spotify, Netflix, Amazon, and X.com. |
+| **🛒 E-Commerce App** | `MERN` `Redux` `Stripe` | Cart management, payments, automated email workflows |
+| **🌾 AgroNet** | `MERN` | Farmers sell directly to buyers: listings, orders, authentication |
+| **🤖 GenAI Apps** | `Node.js` `AI APIs` | Text, image, and audio generation via async pipelines |
+| **🎨 3D Animated Website** | `GSAP` `Locomotive Scroll` | Scroll-triggered animations, parallax, smooth transitions |
+| **🧩 Platform Clones** | `React` `CSS` | Responsive UIs of Spotify, Netflix, Amazon, X.com |
 
----
+<br/>
 
-## Payment Gateway Integrations
+## 💳 Payment Gateway Integrations
 
-Hands-on experience implementing payment workflows across four payment providers.
-
-| Gateway | Region | Integration |
+| Gateway | Region | What I built |
 |---|---|---|
-| Square | US / Global | Payments API, Orders API, OAuth 2.0, webhook handling |
-| Place to Pay | Latin America | Session-based checkout, payment status polling, HMAC validation |
-| ATH Móvil | Puerto Rico | Production payment request flow and callback handling |
-| Razorpay | India | Orders API, payment capture, refunds, UPI, cards, webhook verification |
+| **Square** | 🇺🇸 US / Global | Payments API, Orders API, OAuth 2.0, webhook handling |
+| **Place to Pay** | 🌎 Latin America | Session-based checkout, status polling, HMAC validation |
+| **ATH Móvil** | 🇵🇷 Puerto Rico | Production payment request flow and callback handling |
+| **Razorpay** | 🇮🇳 India | Orders API, capture, refunds, UPI, cards, webhook verification |
 
-**Key Implementation Details**
+<details>
+<summary><b>🔍 Implementation details</b></summary>
+<br/>
 
-- Developed end-to-end payment workflows covering session creation, checkout, confirmation, and cancellation.
-- Implemented webhook listeners for asynchronous payment status updates and order reconciliation.
-- Used idempotency to prevent duplicate payment processing.
-- Implemented defensive error handling and logging for production payment integrations.
-- Designed unified payment service abstractions within a microservices architecture.
-- Followed PCI-oriented practices by avoiding storage of raw card information.
+- End-to-end flows: session creation, checkout, confirmation, cancellation.
+- Webhook listeners for async payment status and order reconciliation.
+- Idempotency to prevent duplicate payment processing.
+- Defensive error handling and logging for production use.
+- Unified payment service abstraction inside a microservices architecture.
+- PCI-oriented practice: raw card data is never stored.
 
----
+</details>
 
-## Technical Skills
+<br/>
 
-### Programming Languages
+## 📊 GitHub Analytics
 
-![Java](https://img.shields.io/badge/Java-DC382D?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
+<div align="center">
 
-### Java & Spring Ecosystem
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Nikhil79922&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil79922&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/Spring_MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil79922&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-Core Java, OOP, Collections, Multithreading, Executor Framework, CompletableFuture, Java Streams, Lambda Expressions, JDBC, Exception Handling, Virtual Threads.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil79922&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity" width="100%" />
 
-### Backend & Architecture
+</div>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=flat-square&logo=google&logoColor=white)
-![KrakenD](https://img.shields.io/badge/KrakenD-API_Gateway-blue?style=flat-square)
+<br/>
 
-- RESTful API Design
-- Microservices Architecture
-- Event-Driven Architecture
-- Saga Pattern
-- Distributed Transactions
-- API Gateway
-- Service Discovery (Eureka)
-- Design Patterns
-- System Design
+## 🧠 Problem Solving
 
-### Databases & Messaging
+<div align="center">
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+<a href="https://leetcode.com/u/Gasmonkey/">
+  <img src="https://leetcard.jacoblin.cool/Gasmonkey?theme=dark&font=Karma&ext=heatmap" alt="LeetCode stats" width="600" />
+</a>
 
-- PostgreSQL, MySQL, MongoDB, MSSQL
-- Redis Caching
-- Apache Kafka
-- RabbitMQ
-- Hibernate / JPA
-- Prisma / Mongoose
+</div>
 
-### Security & Payment Systems
+**200+ DSA problems** solved across LeetCode, CodeChef, and GeeksforGeeks.
 
-- JWT Authentication
-- Role-Based Access Control (RBAC)
-- OAuth 2.0
-- Refresh Token Rotation
-- Rate Limiting
-- Webhook Signature Verification
-- Payment Gateway Integration
-- Idempotency
+<br/>
 
-### DevOps & Cloud
+## 🏆 Achievements
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+| | Achievement | Details |
+|:---:|---|---|
+| 🏆 | **Agile Person of the Team 2026** | Narola Infotech, for Agile/Scrum ownership and delivery |
+| 🌟 | **Employee of the Month** | Narola Infotech, for consistent performance and ownership |
+| 🔥 | **LeetCode 100-Day Streak** | 100 consecutive days of problem solving |
+| 💻 | **200+ DSA Problems Solved** | LeetCode, CodeChef, GeeksforGeeks |
 
-- Docker & Docker Compose
-- AWS EC2 and S3
-- GitHub Actions CI/CD
-- Nginx
-- Git & GitHub
-- Linux
-- Jira & Confluence
-- IntelliJ IDEA
+<div align="center">
 
-### Frontend Development
+<img src="https://github-profile-trophy.vercel.app/?username=Nikhil79922&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="GitHub trophies" />
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+</div>
 
-React.js, Next.js, Redux Toolkit, HTML, CSS, Tailwind CSS, GSAP.
+<br/>
 
----
+## 🎓 Education
 
-## Achievements
+**B.Tech, Computer Science & Engineering** · Sandip University, Nashik
+🎯 Graduated **2025** · CGPA **9.11**
 
-- 🏆 **Agile Person of the Team 2026** — Narola Infotech, recognized for Agile/Scrum ownership and delivery.
-- 🌟 **Employee of the Month** — Narola Infotech, recognized for consistent performance and ownership.
-- 🔥 **LeetCode 100-Day Streak Badge** — Completed a 100-day problem-solving streak.
-- 💻 **200+ DSA Problems Solved** — LeetCode, CodeChef, and GeeksforGeeks.
+<br/>
 
----
+## 🤝 Let's Connect
 
-## Education
+<div align="center">
 
-**B.Tech — Computer Science & Engineering**
+Open to **Java Backend**, **Microservices**, **Distributed Systems**, and **Full-Stack** opportunities.
 
-Sandip University, Nashik  
-Graduated: 2025 · CGPA: **9.11**
+<a href="mailto:ns94301918@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/nikhil-kumar-singh-a167b2279/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/Nikhil79922"><img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="Footer" width="100%" />
 
-## Coding Profiles
-
-- [GitHub](https://github.com/Nikhil79922)
-- [LeetCode](https://leetcode.com/u/Gasmonkey/)
-- [LinkedIn](https://www.linkedin.com/in/nikhil-kumar-singh-a167b2279/)
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil79922&hide_border=true" alt="GitHub streak statistics" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil79922&theme=github-dark&hide_border=true" alt="GitHub contribution activity" />
-</p>
-
----
-
-## Let's Connect
-
-I'm interested in Java Backend Development, Spring Boot, Microservices, Distributed Systems, and Full-Stack Engineering opportunities.
-
-📧 **Email:** ns94301918@gmail.com
-
-💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/nikhil-kumar-singh-a167b2279/)
-
-💻 **GitHub:** [Explore my repositories](https://github.com/Nikhil79922)
-"""
-
-output_path = "/mnt/data/README.md"
-pypandoc.convert_text(markdown, "md", format="md", outputfile=output_path, extra_args=["--standalone"])
-print(f"Created {output_path}")
+</div>
