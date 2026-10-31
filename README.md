@@ -11,7 +11,7 @@
 
 </div>
 
-<br/>
+<img src="assets/divider.svg" alt="" width="100%" />
 
 <img src="assets/h-about.svg" alt="About" width="100%" />
 
@@ -21,7 +21,7 @@ Comfortable across the stack with React, Next.js, and Node.js, but strongest whe
 
 <img src="assets/metrics.svg" alt="Key metrics: 5 production applications, 50,000+ users, 99.9% uptime, ~40% deployment efficiency gain, 4 payment gateways" width="100%" />
 
-<br/>
+<img src="assets/divider.svg" alt="" width="100%" />
 
 <img src="assets/h-stack.svg" alt="Tech Stack" width="100%" />
 
@@ -45,7 +45,7 @@ Comfortable across the stack with React, Next.js, and Node.js, but strongest whe
 
 </details>
 
-<br/>
+<img src="assets/divider.svg" alt="" width="100%" />
 
 <img src="assets/h-experience.svg" alt="Experience" width="100%" />
 
@@ -68,7 +68,7 @@ Comfortable across the stack with React, Next.js, and Node.js, but strongest whe
 ### Web Development Intern · TechnoHacks EduTech, CodSoft, Bharat Intern
 `JULY 2023 – SEPTEMBER 2023`
 
-<br/>
+<img src="assets/divider.svg" alt="" width="100%" />
 
 <img src="assets/h-projects.svg" alt="Projects" width="100%" />
 
@@ -92,7 +92,7 @@ Comfortable across the stack with React, Next.js, and Node.js, but strongest whe
 | **3D Animated Website** | `GSAP` `Locomotive Scroll` | Scroll-triggered animation, parallax, smooth transitions |
 | **Platform Clones** | `React` `CSS` | Responsive UIs modeled on Spotify, Netflix, Amazon, X.com |
 
-<br/>
+<img src="assets/divider.svg" alt="" width="100%" />
 
 <img src="assets/h-payments.svg" alt="Payment Systems" width="100%" />
 
@@ -116,7 +116,7 @@ Comfortable across the stack with React, Next.js, and Node.js, but strongest whe
 
 </details>
 
-<br/>
+<img src="assets/divider.svg" alt="" width="100%" />
 
 <img src="assets/h-analytics.svg" alt="Analytics" width="100%" />
 
@@ -140,7 +140,7 @@ Comfortable across the stack with React, Next.js, and Node.js, but strongest whe
 
 </div>
 
-<br/>
+<img src="assets/divider.svg" alt="" width="100%" />
 
 <img src="assets/h-recognition.svg" alt="Recognition" width="100%" />
 
@@ -151,14 +151,14 @@ Comfortable across the stack with React, Next.js, and Node.js, but strongest whe
 | **LeetCode 100-Day Streak Badge** | 100 consecutive days of problem solving |
 | **200+ DSA Problems Solved** | LeetCode, CodeChef, GeeksforGeeks |
 
-<br/>
+<img src="assets/divider.svg" alt="" width="100%" />
 
 <img src="assets/h-education.svg" alt="Education" width="100%" />
 
 **B.Tech, Computer Science and Engineering** · Sandip University, Nashik
 Graduated 2025 · CGPA **9.11**
 
-<br/>
+<img src="assets/divider.svg" alt="" width="100%" />
 
 <img src="assets/h-contact.svg" alt="Contact" width="100%" />
 
