@@ -116,7 +116,7 @@ Across all gateways: full payment lifecycle handling, webhook-driven order recon
 <a href="https://www.linkedin.com/in/nikhil-kumar-singh-a167b2279/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" width="126" /></a>
 <a href="https://github.com/Nikhil79922"><img src="assets/btn-github.svg" alt="GitHub" width="126" /></a>
 
-<br/><br/>
+<br/>
 
 <img src="assets/footer.svg" alt="Let’s build something reliable" width="100%" />
 
