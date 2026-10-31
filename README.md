@@ -4,10 +4,10 @@
 
 <br/>
 
-<a href="mailto:ns94301918@gmail.com"><img src="https://img.shields.io/badge/EMAIL-060a12?style=for-the-badge&logo=gmail&logoColor=00e5ff&labelColor=060a12&color=0a1626" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/nikhil-kumar-singh-a167b2279/"><img src="https://img.shields.io/badge/LINKEDIN-060a12?style=for-the-badge&logo=linkedin&logoColor=00e5ff&labelColor=060a12&color=0a1626" alt="LinkedIn" /></a>
-<a href="https://leetcode.com/u/Gasmonkey/"><img src="https://img.shields.io/badge/LEETCODE-060a12?style=for-the-badge&logo=leetcode&logoColor=ffa726&labelColor=060a12&color=0a1626" alt="LeetCode" /></a>
-<a href="https://drive.google.com/file/d/1bm8whV2pOMs44I5w2UVcwXDwyb3iwwo2/view?usp=drive_link"><img src="https://img.shields.io/badge/R%C3%89SUM%C3%89-060a12?style=for-the-badge&logo=googledrive&logoColor=ffa726&labelColor=060a12&color=0a1626" alt="Résumé" /></a>
+<a href="mailto:ns94301918@gmail.com"><img src="https://img.shields.io/badge/EMAIL-040815?style=for-the-badge&logo=gmail&logoColor=5b9dff&labelColor=040815&color=0b1a3d" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/nikhil-kumar-singh-a167b2279/"><img src="https://img.shields.io/badge/LINKEDIN-040815?style=for-the-badge&logo=linkedin&logoColor=5b9dff&labelColor=040815&color=0b1a3d" alt="LinkedIn" /></a>
+<a href="https://leetcode.com/u/Gasmonkey/"><img src="https://img.shields.io/badge/LEETCODE-040815?style=for-the-badge&logo=leetcode&logoColor=ffa726&labelColor=040815&color=0b1a3d" alt="LeetCode" /></a>
+<a href="https://drive.google.com/file/d/1bm8whV2pOMs44I5w2UVcwXDwyb3iwwo2/view?usp=drive_link"><img src="https://img.shields.io/badge/R%C3%89SUM%C3%89-040815?style=for-the-badge&logo=googledrive&logoColor=ffa726&labelColor=040815&color=0b1a3d" alt="Résumé" /></a>
 
 </div>
 
@@ -25,7 +25,7 @@ Comfortable across the stack with React, Next.js, and Node.js, but strongest whe
 
 <img src="assets/h-stack.svg" alt="Tech Stack" width="100%" />
 
-<img src="assets/boot.svg" alt="Technology stack: Java, Spring Boot, Kafka, RabbitMQ, PostgreSQL, Redis, Docker, AWS, React" width="100%" />
+<img src="assets/stack.svg" alt="Technology stack drawn as constellations: languages, frameworks, messaging and data, delivery" width="100%" />
 
 <details>
 <summary><b>Detailed skill matrix</b></summary>
@@ -122,7 +122,7 @@ Comfortable across the stack with React, Next.js, and Node.js, but strongest whe
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil79922&hide_border=true&background=060A12&ring=00E5FF&fire=FFA726&currStreakNum=00E5FF&sideNums=00E5FF&currStreakLabel=FFA726&sideLabels=7FB3D5&dates=5B7088" alt="Contribution streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil79922&hide_border=true&background=040815&ring=5B9DFF&fire=8FD0FF&currStreakNum=E8F1FF&sideNums=E8F1FF&currStreakLabel=8FD0FF&sideLabels=7F93B8&dates=7F93B8" alt="Contribution streak" />
 
 <br/><br/>
 
@@ -164,9 +164,9 @@ Graduated 2025 · CGPA **9.11**
 
 <div align="center">
 
-<a href="mailto:ns94301918@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-060a12?style=for-the-badge&logo=gmail&logoColor=00e5ff&labelColor=060a12&color=0a1626" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/nikhil-kumar-singh-a167b2279/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-060a12?style=for-the-badge&logo=linkedin&logoColor=00e5ff&labelColor=060a12&color=0a1626" alt="LinkedIn" /></a>
-<a href="https://github.com/Nikhil79922"><img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-060a12?style=for-the-badge&logo=github&logoColor=ffa726&labelColor=060a12&color=0a1626" alt="GitHub" /></a>
+<a href="mailto:ns94301918@gmail.com"><img src="https://img.shields.io/badge/EMAIL_ME-040815?style=for-the-badge&logo=gmail&logoColor=5b9dff&labelColor=040815&color=0b1a3d" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/nikhil-kumar-singh-a167b2279/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-040815?style=for-the-badge&logo=linkedin&logoColor=5b9dff&labelColor=040815&color=0b1a3d" alt="LinkedIn" /></a>
+<a href="https://github.com/Nikhil79922"><img src="https://img.shields.io/badge/FOLLOW_ON_GITHUB-040815?style=for-the-badge&logo=github&logoColor=ffa726&labelColor=040815&color=0b1a3d" alt="GitHub" /></a>
 
 <br/><br/>
 
